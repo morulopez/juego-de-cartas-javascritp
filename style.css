@@ -1,0 +1,21 @@
+
+.abajo{
+	width:60%;
+	padding:10%;
+}
+#minutos {
+	font-size: 40px;
+}
+#segundos {
+	font-size: 40px;
+}
+#puntos {
+	font-size: 40px;
+}
+.crono{
+	text-align: center;
+}
+#juego{
+	text-align: center;
+	margin:10px 0 10px;
+}
